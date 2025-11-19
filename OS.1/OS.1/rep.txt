@@ -1,0 +1,4 @@
+ "creat.bin"
+ID	Name	Hours	Salary
+12	vanya	8	160.00
+13	sasha	10.00	200.00
