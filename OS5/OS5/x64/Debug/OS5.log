@@ -1,0 +1,3 @@
+﻿server.obj : error LNK2005: main уже определен в OS5.obj
+server.obj : error LNK2005: "void * hPipe" (?hPipe@@3PEAXEA) уже определен в OS5.obj
+C:\Users\kokor\source\repos\OS5\x64\Debug\OS5.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
