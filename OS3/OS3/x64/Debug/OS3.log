@@ -1,0 +1,6 @@
+﻿  OS3.cpp
+C:\Users\kokor\source\repos\OS3\OS3\OS3.cpp(18,14): warning C4311: приведение типов: усечение указателя из "LPVOID" в "int"
+C:\Users\kokor\source\repos\OS3\OS3\OS3.cpp(18,14): warning C4302: приведение типов: усечение из "LPVOID" к "int"
+C:\Users\kokor\source\repos\OS3\OS3\OS3.cpp(32,9): warning C4102: LeaveCriticalSection: неиспользованная метка
+C:\Users\kokor\source\repos\OS3\OS3\OS3.cpp(98,53): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+  OS3.vcxproj -> C:\Users\kokor\source\repos\OS3\x64\Debug\OS3.exe
